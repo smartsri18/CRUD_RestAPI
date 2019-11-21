@@ -1,1 +1,2 @@
 # CRUD_RestAPI
+A Scenario took for creating a heterogeneous web service and it holds basic operations like Create, Retrieve, Update, Deletion. Web Service created in the Django web framework and to make it a heterogeneous API, I used the Django Rest framework to change each functionality into an API service. JWS token is integrated for authorization the user and generating a valid token for authentication. This web service is tested in the POSTMAN application and everything works fine. 
